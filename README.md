@@ -15,7 +15,7 @@ Full React component docs https://docs.usewinter.com/front-end-integration/react
 
 ## How to run this repo
 
-First do an `npm install`, replace the project ID, and then run `npm start`
+First do an `npm install`, replace the project ID on this line https://github.com/winter-crypto/Winter-Sample-Project/blob/main/src/App.js#L131, and then run `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser!
 
