@@ -82,7 +82,7 @@ contract WorldOfTechCats is ERC721URIStorage, Ownable {
 
 3. Try doing a test mint with a fake credit card! 
 
-![Screen Shot 2022-09-18 at 5.23.46 PM.png]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22cbb2d2-d725-47e1-8557-a57809dc4ca1/Screen_Shot_2022-09-18_at_5.23.46_PM.png](https://winternfts.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22cbb2d2-d725-47e1-8557-a57809dc4ca1%2FScreen_Shot_2022-09-18_at_5.23.46_PM.png?id=ae3b2433-ee5f-4d70-83ac-df1a9aecc5dc&table=block&spaceId=74fbeb19-4d10-41b8-9582-0c039db556bc&width=2000&userId=&cache=v2))
+![Screen Shot 2022-09-18 at 5.23.46 PM.png](https://i.imgur.com/FMGbXjX.png)
 
 ## Step 2: Integrate on your front end
 
@@ -92,11 +92,11 @@ Option 1: Fork your a copy of our sample [dApp setup here](https://github.com/wi
 
 - Insert your own contract address
     
-    ![Screen Shot 2022-12-21 at 9.08.39 PM.png]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1779725c-5e6f-4697-a222-0ccc76a1abc3/Screen_Shot_2022-12-21_at_9.08.39_PM.png](https://winternfts.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1779725c-5e6f-4697-a222-0ccc76a1abc3%2FScreen_Shot_2022-12-21_at_9.08.39_PM.png?id=a4e29a28-e83f-4d2a-979d-3094fd6ee77f&table=block&spaceId=74fbeb19-4d10-41b8-9582-0c039db556bc&width=2000&userId=&cache=v2))
+    ![Screen Shot 2022-12-21 at 9.08.39 PM.png](https://i.imgur.com/WBr0yc0.png)
     
 - Take your projectId and set it in projectId
 
-![Screen Shot 2022-12-21 at 9.08.59 PM.png]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e4f93dc-b691-44e7-a949-1e40653bee47/Screen_Shot_2022-12-21_at_9.08.59_PM.png](https://winternfts.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0e4f93dc-b691-44e7-a949-1e40653bee47%2FScreen_Shot_2022-12-21_at_9.08.59_PM.png?id=d8697b62-da2d-471a-9568-31a6f93210aa&table=block&spaceId=74fbeb19-4d10-41b8-9582-0c039db556bc&width=1150&userId=&cache=v2))
+![Screen Shot 2022-12-21 at 9.08.59 PM.png](https://i.imgur.com/kfGonQ2.png)
 
 - And you’re good to go! `npm install` and `npm start`
 
@@ -134,4 +134,5 @@ import { WinterCheckout } from '@usewinter/checkout';
 
 Push your project to production!
 
+Example video here:
 https://www.loom.com/share/9ea1f91a995c436ab6269f1bbbe937e7
